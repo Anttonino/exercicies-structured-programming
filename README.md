@@ -1,14 +1,18 @@
-# AV1 programação estruturada (Unicarioca) 
+# Lista Exercícios de Programação Estruturada
 
-<h3> 👩‍💻 Linguagem </h3>
+<img src="https://i.imgur.com/RGx1Oqd.png">
 
-[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://pt.wikipedia.org/wiki/C%2B%2B)
+<p><b>✅ Projeto Finalizado</b></p>
+<p><b>📆 Data de entrega:</b> 30/04/2022</p>
+<p><b>🎓 Nota:</b> 10</p>
 
-<h3> Lista de exercícios </h3>
+## 💬 Descrição
 
-:construction: Projeto em construção :construction:
+Eu, [Victor Antonino](https://github.com/Anttonino), criei este repositório para armazenar a minha primeira avaliação da matéria programação estruturada do Centro Universitário Unicarioca. Os exercícios foram criados pelo professor [André Cotelli](https://www.linkedin.com/in/andr%C3%A9-cotelli-70a62b178/) podendo ser desenvolvidos nas linguagens C e C++
 
-<h4> APS  1 – Valor: 2,0 pontos </h4>
+## 📚 Lista de Exercícios
+
+<h4> APS  1 – Valor: 5,0 pontos </h4>
 
 <b> A) Escreva uma função que conte o número de consoantes de uma string passada como parâmetro. </b>
 
@@ -40,7 +44,7 @@ Saída: ogidoc </i>
 Vai gerar um vetor, onde cada posição e a soma das colunas da matriz. A primeira posição ser a 1 + 2 + 20, e assim por diante: 23 4 18
 </i>
 
-<h4> APS  2 – Valor: 2,0 pontos </h4>
+<h4> APS  2 – Valor: 5,0 pontos </h4>
 
 <b> A) Faça um programa que leia uma matriz de 5 linhas e 5 colunas contendo as seguintes informações sobre alunos de uma disciplina: </b>
 
@@ -81,12 +85,25 @@ Vai gerar um vetor, onde cada posição e a soma das colunas da matriz. A primei
 
 <b> G)  Faça um programa para gerar automaticamente números entre 0 e 99 de uma cartela de bingo. Sabendo que cada cartela deverá conter 5 linhas de 5 números, gere estes dados de modo a não ter números repetidos dentro das cartelas. O programa deve exibir na tela a cartela gerada (exibir como uma cartela real). </b>
 
-## Authors
+## 👨‍🎓 Autor do Projeto
 
-- [@Anttonino](https://github.com/Anttonino)
-
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anttonino)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-antonino-085175210/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victor_antonino__/)
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a target="_blank" href="https://github.com/Anttonino"><img src="https://avatars.githubusercontent.com/u/99145534?v=4" width="140px">
+        <br>
+        <b>Victor Antonino</b>
+      </a>
+      <br>
+      <a href="https://www.linkedin.com/in/victorantonino/">
+      <sub>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+      </a>
+      <br>
+      <a href"https://github.com/Anttonino">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+      </sub>
+      </a>
+    </td>
+</tr>
+</table>
